@@ -6,3 +6,5 @@ The accuracy levels obtained for different models was as follows:
 3. Gradient boosting- 81.6%	
 4. Random forests- 82%
 5. Neural Netwroks- 82%
+
+Running some of the above algorithms may take time depending upon the configuration of your system. 
